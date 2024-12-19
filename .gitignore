@@ -1,0 +1,53 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Node Modules
+node_modules/
+
+# Build Outputs
+dist/
+build/
+
+# Temporary files
+temp/
+*.tmp
+
+# Angular related
+.angular/
+.angular-cli.json
+.idea/
+.project
+.vscode/
+.sass-cache/
+
+# Dependency directories
+coverage/
+bower_components/
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor specific
+*.swp
+*.swo
+
+# Environment files
+.env
+.env.*.local
+
+# Test reports
+testem.log
+karma-coverage/
+
+# Git
+.git/
+
+# Other
+*.bak
+*.old
