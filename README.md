@@ -18,3 +18,12 @@ ng g c compb --skip-tests
 
 Generar el compilado final del proyecto
 ng build
+
+Generar un servicio
+ng g s services/patient
+
+Generar un ambiente
+ng g environments
+
+Crear un módulo de organización
+ng g module material
